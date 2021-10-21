@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+#wrapper {width:90%; margin:0 auto;}
+.no_liststyle {list-style:none;}
+.box {border:1px solid #CCC; box-shadow:1px 1px 2px gray; padding:10px;}
+.underline {text-decoration:underline;}
+
+/* 자소서 양식 */
+#self_form {width:50%;}
+#self_form h3 {text-align:center;}
+.box2 {border:1px solid black; margin:0; border-bottom:none; text-indent:10px;}
+p.box2 {height:100px;}
+.box2:last-child {border-bottom:1px solid black;}
